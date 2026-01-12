@@ -3,14 +3,14 @@
   CI/CD · Docker · Terraform · Observability · Python/FastAPI · AWS · Kubernates
 </p>
 
-## 🛠️ Технологии
+## 🛠️ Technologies
 **CI/CD:** GitLab CI, GitHub Actions · **Runners:** docker, shell  
 **Containers:** Docker, Compose · **IaC:** Terraform  
 **Cloud:** GCP · **Obs:** Prometheus, Grafana, Loki  
 **Python:** FastAPI, pytest · **DB:** MongoDB, Redis · **Linux:** Ubuntu
 
-## 📌 Проекты
+## 📌 Projects
 - **.** — .
 
-## 📬 Контакты
+## 📬 Contacts
 Telegram: @uselag · Email: Ichifirstgonumber@gmail.com
