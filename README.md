@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">DevOps / AIOps — dire</h1>
+<p align="center">
+  CI/CD · Docker · Terraform · Observability · Python/FastAPI · AWS · Kubernates
+</p>
 
-<!--
-**Ichitube/ichitube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Технологии
+**CI/CD:** GitLab CI, GitHub Actions · **Runners:** docker, shell  
+**Containers:** Docker, Compose · **IaC:** Terraform  
+**Cloud:** GCP · **Obs:** Prometheus, Grafana, Loki  
+**Python:** FastAPI, pytest · **DB:** MongoDB, Redis · **Linux:** Ubuntu
 
-Here are some ideas to get you started:
+## 📌 Проекты
+- **.** — .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Контакты
+Telegram: @uselag · Email: Ichifirstgonumber@gmail.com
