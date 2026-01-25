@@ -10,7 +10,7 @@
 **Python:** FastAPI, Aiogram · Django · Webhooks **DB:** MongoDB, Redis · **Linux:** Ubuntu, CentOS
 
 ## 📌 Projects
-- **[.](https://github.com/ichitube/AnimeKaisen)** — .
+- **https://github.com/ichitube/AnimeKaisen** -
 
 ## 📬 Contacts
 Telegram: @uselag · Email: Ichifirstgonumber@gmail.com
