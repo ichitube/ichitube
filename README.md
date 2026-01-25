@@ -1,4 +1,4 @@
-<h1 align="center">DevOps / Backend — dire</h1>
+<h1 align="center">DevOps / SRE Python — dire</h1>
 <p align="center">
   CI/CD · Docker · Terraform · Observability · Python/FastAPI · AWS · Kubernates
 </p>
@@ -10,7 +10,7 @@
 **Python:** FastAPI, Aiogram · Django · Webhooks **DB:** MongoDB, Redis · **Linux:** Ubuntu, CentOS
 
 ## 📌 Projects
-- **.** — .
+- **[.](https://github.com/ichitube/AnimeKaisen)** — .
 
 ## 📬 Contacts
 Telegram: @uselag · Email: Ichifirstgonumber@gmail.com
