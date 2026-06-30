@@ -39,8 +39,14 @@ I build and maintain pipelines, infrastructure-as-code, monitoring stacks, and P
 ---
 
 ## 📌 Featured project
-- **AnimeKaisen** — Telegram bot / backend & infra  
+- **ESS** — Energy Storage System / AI & Infra & backend
+  https://github.com/ichitube/ESS
+- **AnimeKaisen** — Telegram bot / backend & infra
   https://github.com/ichitube/AnimeKaisen
+- Docker best practices for production
+  https://github.com/ichitube/docker-best-practices
+- Ansible best practices for production
+  https://github.com/ichitube/ansible-best-practices
 
 ---
 
