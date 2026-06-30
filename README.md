@@ -28,13 +28,13 @@
 
 ## About me
 I’m a DevOps / SRE-minded engineer focused on **automation**, **reliability**, and **observability**.  
-I build and maintain pipelines, infrastructure-as-code, monitoring stacks, and Python backends.
+I build Kubernates infrastructers and maintain pipelines, infrastructure-as-code, monitoring stacks, and Python backends and AI features.
 
 - **CI/CD:** GitLab CI, runners (docker/shell), environments, release flows  
 - **IaC:** Terraform (modules), Ansible (roles), reproducible infra  
 - **Observability:** metrics/logs/dashboards/alerts (Prometheus, Grafana, Loki)  
 - **Backend:** FastAPI / aiogram, webhooks, integrations  
-- **Cloud & Linux:** AWS, Timeweb Cloud, Yandex Cloud; Ubuntu/CentOS
+- **Cloud & Linux:** AWS, EKS, Timeweb Cloud, Yandex Cloud; Ubuntu/CentOS
 
 ---
 
